@@ -20,6 +20,7 @@ PyAutoGUI – for mouse control actions
 
 1️⃣ Clone the repository
 git clone https://github.com/tanujaadapa/Hands-free-mouse-control-using-eye-movement.git
+
 2️⃣ Navigate to the project folder
 cd Hands-Free-Mouse-Control
 
