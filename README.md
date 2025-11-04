@@ -5,9 +5,13 @@ The Hands-Free Mouse Control project enables users to control the computer mouse
 It uses computer vision to track facial and eye landmarks in real-time, making it especially useful for physically challenged users or hands-free interactions.
 
 ⚙️ **Features**
+
 ✅ Tracks eye movement to move the mouse cursor
+
 ✅ Detects blinks to perform mouse clicks
+
 ✅ Real-time video processing using webcam
+
 ✅ Simple and lightweight Python implementation
 
 🧩 **Technologies Used**
@@ -33,17 +37,25 @@ python Py_project.py
 Look at the camera 👀 — move your eyes to control the cursor and blink to click! 🖱️
 
 🎯 **Expected Output**
+
 ✔️ Cursor follows your eye movement
+
 ✔️ Blink triggers a mouse click
+
 ✔️ Webcam window shows face and eye landmarks
 
 📚 **Future Enhancements**
+
 🔹 Add right-click and scroll gestures
+
 🔹 Improve accuracy with head-pose tracking
+
 🔹 Implement smoother cursor motion
 
 👩‍💻 **Author**
+
 Tanuja Naga Sarojini Adapa📍 CSE Student @ Pragati Engineering College 
 
 📝 **License**
+
 This project is open-source and available under the MIT License.
