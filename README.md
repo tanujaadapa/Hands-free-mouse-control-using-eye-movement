@@ -15,9 +15,13 @@ It uses computer vision to track facial and eye landmarks in real-time, making i
 ✅ Simple and lightweight Python implementation
 
 🧩 **Technologies Used**
+
 Python
+
 OpenCV – for video capture and image processing
+
 MediaPipe – for face and iris landmark detection
+
 PyAutoGUI – for mouse control actions
 
 🚀 **How to Run**
